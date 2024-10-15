@@ -1,0 +1,9 @@
+{
+  "transacoes": [
+    {
+      "id": 1,
+      "descricao": "Depósito",
+      "valor": 1000
+    }
+  ]
+}
